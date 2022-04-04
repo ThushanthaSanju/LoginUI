@@ -1,0 +1,14 @@
+.nav{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+
+  .navlogo{
+    padding-right: 1000px;
+  }
